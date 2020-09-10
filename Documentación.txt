@@ -1,0 +1,3 @@
+Explicación de como usarlo:
+Requisito: Tener instalado el comando jq (sudo apt-get install jq)
+Correr el script en la terminal (./ejercicio.sh) se le pedirá ingresar el seller id, separados por espacio si se desea ingresar múltiples valores
